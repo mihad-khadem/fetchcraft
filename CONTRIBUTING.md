@@ -31,3 +31,5 @@ We're still adding automated tests — feel free to help implement!
 ### 📬 Questions?
 
 Open an issue or reach out via [GitHub Discussions](https://github.com/mihad-khadem/fetchcraft/discussions).
+
+Thanks for your contributions!
